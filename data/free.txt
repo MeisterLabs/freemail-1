@@ -1186,9 +1186,14 @@ hotmail.be
 hotmail.ca
 hotmail.ch
 hotmail.co.il
+hotmail.co.jp
+hotmail.co.th
 hotmail.co.uk
 hotmail.com
+hotmail.com.ar
+hotmail.com.br
 hotmail.de
+hotmail.dk
 hotmail.es
 hotmail.fr
 hotmail.it
